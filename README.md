@@ -4,14 +4,14 @@
 #CAMPUS LIFE
 is the very first sprint to validate in youcude campus 2026
 
-Campus-Life/  
-├── assets/
-│     ├──03 · Chiffres clés  
-│     ├──campus
-│     ├──Événements
-│     ├──Hero Campus Life
-│     └──Témoignage
-├── Home/  
+Campus-Life/    
+├── assets/  
+│     ├──03 · Chiffres clés    
+│     ├──campus  
+│     ├──Événements  
+│     ├──Hero Campus Life  
+│     └──Témoignage  
+├── Home/    
 │     ├── index.html  
 │     └── style.css  
 ├── Campus/  
@@ -21,5 +21,5 @@ Campus-Life/
 │     ├── index.html  
 │     └── style.css  
 ├──fonts/    
-└──README.md
+└──README.md  
 
