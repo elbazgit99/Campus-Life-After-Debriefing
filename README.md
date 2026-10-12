@@ -7,7 +7,7 @@ A mini-Project Based on A **figma Mockup** UI/UX, Using Static Technologies such
 With **git** For Distributing Version Controll, and **GitHub** as a Remote Storage.
 
 
-##Project Purposes  
+##Project Purposes   
 
 is the very first **sprint Increament** to validate during youcode campus 2026 ,  
 as a follow up **Agile Scrum** Methodolgie in Real Time Implementation.  
